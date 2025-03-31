@@ -1,7 +1,7 @@
-👋 Hi, I'm Matheus Turra! I'm a technical implementation specialist in a healthcare organization focusing on the integration of Cloud and AI vendor digital tools that improve clinical operational workflows.
+👋 Hi, I'm Matheus Turra! I'm a technical solutions manager in a healthcare organization focusing on the integration of Cloud and AI vendor digital tools that improve clinical operational workflows.
 
 ## About Me
-With a background in mechanical engineering and bioengineering along with a brief stint in creating a startup company where I was a finalist in the [Black Ambition Prize competition](https://blackambitionprize.com/prize_winners/extruo/)); I bring a combination of discipline, operational expertise, and workflow optimization across various industries. I'm passionate about developing software solutions that solve real world problems.
+With an academic background in mechanical engineering and bioengineering along with a brief stint in creating a startup company where I was a finalist in the [Black Ambition Prize competition](https://blackambitionprize.com/prize_winners/extruo/)); I bring a combination of discipline, operational expertise, and workflow optimization across various industries. I'm passionate about developing software solutions that solve real world problems.
 
 ## Technical Skills 🛠️
 - Languages: Python, JavaScript
